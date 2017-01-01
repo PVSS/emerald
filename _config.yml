@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
+title: Random Wall | PVs Blog
+description: "Random Posts on Life Learning (Machine too :) )."
 url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Prakash P V S S"
+  email: "prakashpvss@gmail.com"
+  url: "http://pvss.github.io"
 
 # Build settings
 baseurl: /pvss.github.io/ # Change this to your relative path (ex: /blog/), or leave just a /
