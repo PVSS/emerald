@@ -1,9 +1,6 @@
 ---
 published: true
 ---
-## A New Post
-
-
-![Dino]({{site.baseurl}}/_posts/Picture1.png)
+![14247-que-sera-sera.jpg]({{site.baseurl}}/_posts/14247-que-sera-sera.jpg)
 
 # Happy New Year
