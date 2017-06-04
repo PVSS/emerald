@@ -3,6 +3,19 @@
 
 **Iterating Through List and Dictionary**
 
+In Python programming language, an iterator is an object which implements the iterator protocol. The iterator protocol consists of two methods. The __iter__() method, which must return the iterator object and the next() method, which returns the next element from a sequence.
+
+Python has several built-in objects, which implement the iterator protocol. For example lists, tuples, strings, dictionaries or files.
+
+In general, a generator is a special routine that can be used to control the iteration behaviour of a loop. A generator is similar to a function returning an array. A generator has parameters, it can be called and it generates a sequence of numbers. But unlike functions, which return a whole array, a generator yields one value at a time. This requires less memory. (Wikipedia)
+
+Generators in Python:
+
+Are defined with the def keyword
+Use the yield keyword
+May use several yield keywords
+Return an iterator
+
 
 
 ```python
