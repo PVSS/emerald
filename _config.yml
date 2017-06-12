@@ -1,38 +1,18 @@
 # Site settings
+# Site settings
 title: Random Wall | PVs Blog
+email: "prakashpvss@gmail.com"
 description: "Random Posts."
-url: "http://www.jacoporabolini.com/emerald"
-author:
-  name: "Prakash P V S S"
-  email: "prakashpvss@gmail.com"
-  url: "http://pvss.github.io"
+baseurl: ""
+url: "http://pvss.github.io"
+github_username:  PVSS
 
 # Build settings
-baseurl: /pvss.github.io # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 8
-paginate_path: /page:num/
+permalink: pretty
 
-# Default values
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-# Plugins
-gems:
-  - jekyll-paginate
-
-# Custom variables
-version: "1.1.0"
-
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: false
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
