@@ -1,11 +1,11 @@
 # Site settings
-title: CS231n Convolutional Neural Networks for Visual Recognition
-email: karpathy@cs.stanford.edu
-description: "Course materials and notes for Stanford class CS231n: Convolutional Neural Networks for Visual Recognition."
+title: Random Wall
+email: prakashpvss@gmail.com
+description: "PV's Blog - Python, Machine Learning, C++"
 baseurl: ""
-url: "http://cs231n.github.io"
-twitter_username: cs231n
-github_username:  cs231n
+url: "http://pvss.github.io"
+twitter_username: pvss
+github_username:  pvss
 
 # Build settings
 markdown: kramdown
